@@ -1,0 +1,67 @@
+/* Poppins font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    overflow-x:visible;
+}
+.logo {
+    width: 70px;
+    height: auto;
+}
+.top-header, #top-Hero-section {
+    background: #8E2DE2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+/* .single-feature-item {
+    box-sizing: border-box;
+} */
+.bike-gray-scale {
+    filter: grayscale(100%);
+}
+.user-rev-img {
+    width: 250px;
+}
+.card-img-height {
+    height: 250px;
+}
+#about-us {
+    background-color: #f36524;
+}
+.text-justified {
+    text-align: justify;
+}
+#subscribe {
+    background: #FF0099;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.fas {
+    font-size: 23px;
+    color: #f36524;
+    margin-right: 20px;
+}
+.download-text {
+    font-size: 10px;
+}
+.apple-store {
+    font-size: 14px;
+}
+.fab {
+    font-size: 40px;
+}
+.footer-btn {
+    padding: 5px 15px;
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 10px;
+}
+.download-origin {
+    margin: 0;
+}
