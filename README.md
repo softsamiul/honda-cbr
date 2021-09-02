@@ -15,7 +15,7 @@ Project Requirements:
 11. FAQ section (accordion from bootstrap) section mandatory
 12. Footer section optional
 
-## Project Link: *https://honda-cbr-bootstrap-softsamiul.netlify.app/
+### Project Link: https://honda-cbr-bootstrap-softsamiul.netlify.app/
 
 ## Final Project view
 
